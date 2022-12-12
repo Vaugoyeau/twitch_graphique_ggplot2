@@ -1,0 +1,17 @@
+---
+title: "Les graphiques avec {ggplot2}"
+author: "Marie VAUGOYEAU"
+date: "2022-12-13"
+output: 
+  html_document:
+    toc: yes
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+
+```
+  
