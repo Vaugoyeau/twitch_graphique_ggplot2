@@ -1,4 +1,4 @@
-Ce dossier a été créé suite au direct réalisé sur Twitch le 13 décembre 2022 à 14h :   https://www.twitch.tv/videos/1659794149  
+Ce dossier a été créé suite au direct réalisé sur Twitch le 13 décembre 2022 à 14h :   https://www.twitch.tv/videos/1677926376  
 Le but est de comprendre comment réaliser des graphiques facilement avec le package {ggplot2} :  
 _ Les bases pour faire un graphiques avec l'exemple du nuage de points 
 _ Faire la différence entre un histogramme et un diagramme en barres  
